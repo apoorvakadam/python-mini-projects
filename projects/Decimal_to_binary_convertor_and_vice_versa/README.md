@@ -1,9 +1,8 @@
 # Decimal to Binary and Binary to Decimal Converter
 
-<hr>
 This script helps in converting decimal numbers to binary number and binary numbers to decimal numbers. For eg: given a decimal number 12 , it will provide it's binary equivalent, which is 1100.
 
-##How to run the script
+## How to run the script
 
 > python decimal_to_binary.py
 
