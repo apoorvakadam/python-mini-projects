@@ -23,10 +23,16 @@ Option: 1
 
 Now enter the number which is to be converted:
 
-`Input your decimal number:`
+```
+Input your decimal number:
 
-`Decimal: 12`
+Decimal: 12
+
+```
 
 The code will show the final result
 
-`Binary: 1100`
+```
+Binary: 1100
+
+```
