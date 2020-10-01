@@ -8,15 +8,23 @@ This script helps in converting decimal numbers to binary number and binary numb
 
 The code will execute after this command. Choose you option from the menu provided for eg:
 
-`Choose an option:`
+```
 
-`1. Decimal to binary`
-`2. Binary to decimal`
-`Option: 1`
+Choose an option:
+
+1. Decimal to binary
+
+2. Binary to decimal
+
+Option: 1
+
+
+```
 
 Now enter the number which is to be converted:
 
 `Input your decimal number:`
+
 `Decimal: 12`
 
 The code will show the final result
